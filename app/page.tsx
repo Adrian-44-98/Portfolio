@@ -103,10 +103,11 @@ export default function Home() {
               link: "https://www.typework.de/"
             },
             {
-              title: "Project 2 Name",
-              description: "Describe your second project here. What technologies did you use? What was the outcome?",
-              tags: ["Skill 1", "Skill 2", "Skill 3"],
-              image: "/placeholder.svg?height=300&width=500",
+              title: "Tribe",
+              description: "A community platform for homesteading enthusiasts to connect with like-minded people. Share experiences, knowledge, and build meaningful connections within the homesteading community.",
+              tags: ["Next.js", "React", "Tailwind CSS", "Community"],
+              image: "/tribe-preview.jpg",
+              link: "https://jointribe.vercel.app/"
             },
             {
               title: "Project 3 Name",
